@@ -1,0 +1,15 @@
+#Gestion des Utilisateurs
+1- En tant qu'admin je dois être capable d'ajouter un utilisateur 
+2- En tant qu'admin je dois être capable de modifier un utilisateur 
+3- En tant qu'admin je dois être capable de supprimer un ou plusieur utilisateur à la fois
+4- En tant qu'admin je dois être capable de filtrer les utilisateurs à l'aide d'une zone de recherche (côté serveur)
+5- En tant qu'admin je dois être capable de voir les utilisateurs page par page (pagination cote serveur)
+6- En tant qu'admin je dois être capable de donner les rôles et les permissions à un ou plusieurs utilisateurs
+
+#Gestion des Équipes
+1- En tant qu'administrateur je dois être capable de Créer une équipe
+2- En tant qu'administrateur je dois être capable de modifier une équipe
+3- En tant qu'administrateur je dois être capable de supprimer une équipe
+4- En tant qu'administrateur je dois être capable de recherche l'équipe
+5- En tant qu'administrateur je dois être capable de filtrer les équipe
+6- En tant qu'administrateur je dois être capable de mettre les équipe dans un état actif ou inactif
